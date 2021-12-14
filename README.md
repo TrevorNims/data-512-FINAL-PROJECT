@@ -77,4 +77,7 @@ Once the data has been downloaded, your local directory should look like this:
     └── tested_subtypes_box_plot.png
 ```
 ## That's It!
-Now you are able to run the analyses in both of the .ipynb files, examining the effects of Covid-19 in a metro-suburb of Washington D.C!
+Now you are able to run the analyses in both of the .ipynb files, examining the effects of Covid-19 in a metro-suburb of Washington D.C! All visualizations produced by the notebooks will be outputted into the visualizations directory - enjoy checking them out!
+
+## License
+This project is licensed under the MIT license, additional information regarding it can be found in the LICENSE file.

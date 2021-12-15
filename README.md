@@ -42,6 +42,7 @@ To obtain the data necessary to run the notebooks, download the following four .
 ├── A5\ -\ Crime\ Analysis.ipynb
 ├── LICENSE
 ├── README.md
+├── Final\ Report.pdf
 └── visualizations
     ├── Mask_Wearing_Proportions.png
     ├── Time_Series_Change_With_Regression_Lines.png
@@ -55,6 +56,7 @@ Once the data has been downloaded, your local directory should look like this:
 ├── A5\ -\ Crime\ Analysis.ipynb
 ├── LICENSE
 ├── README.md
+├── Final\ Report.pdf
 ├── data
 │   ├── Crime_Incidents_February_2017_to_Present.csv
 │   ├── U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv
